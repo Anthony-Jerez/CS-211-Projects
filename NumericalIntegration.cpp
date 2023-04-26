@@ -1,3 +1,4 @@
+/* Anthony Jerez-Tenecela (Assignment: Numerical Integration) */
 #include <iostream>
 using namespace std;
 
